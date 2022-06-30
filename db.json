@@ -1,0 +1,59 @@
+{
+    "users": [{
+            "id": "1",
+            "firstname": "lincolin",
+            "lastname": "angaya",
+            "email": "lincol@com",
+            "age": 32,
+            "companyId": "1"
+        },
+        {
+            "id": "1",
+            "firstname": "lenox",
+            "lastname": "doe",
+            "email": "lenox@com",
+            "age": 29,
+            "companyId": "1"
+        },
+        {
+            "id": "1",
+            "firstname": "lavi",
+            "lastname": "andayi",
+            "email": "lavi@com",
+            "age": 22,
+            "companyId": "1"
+        },
+        {
+            "id": "1",
+            "firstname": "levis",
+            "lastname": "amunga",
+            "email": "levis@com",
+            "age": 31,
+            "companyId": "1"
+        },
+        {
+            "firstname": "sally",
+            "lastname": "mulupi",
+            "email": "sally@com",
+            "age": 31,
+            "companyId": "1"
+
+        }
+    ],
+    "companies": [{
+            "id": "1",
+            "name": "apple",
+            "description": "I highly recommend you go and watch the json-server resource before doing all this. Also, watch the axios resource."
+        },
+        {
+            "id": "1",
+            "name": "microsoft",
+            "description": "I highly recommend you go and watch the json-server resource before doing all this. Also, watch the axios resource."
+        },
+        {
+            "id": "1",
+            "name": "google",
+            "description": "I highly recommend you go and watch the json-server resource before doing all this. Also, watch the axios resource."
+        }
+    ]
+}
